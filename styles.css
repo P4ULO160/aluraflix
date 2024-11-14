@@ -1,0 +1,23 @@
+body {
+    color:rgb(255, 0, 0);
+    background: black;
+}
+header {
+    border: solid 2px rgb(255, 0, 0);
+}
+header {
+    border: solid 2px rgb(180, 0, 0);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(231, 5, 5);
+}
+section {
+    background: rgb(0, 0, 0);
+}
+font-family: "Chakra Petch", sans-serif;
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+  }
